@@ -1,3 +1,6 @@
 "# Meu Primeiro Repositorio" 
 "" 
 "Repo do exercicio 1.1 da disciplina de Transformacao Digital." 
+"" 
+"## Sobre" 
+"Estudante da turma TD-2026-03." 
